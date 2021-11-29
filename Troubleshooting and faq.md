@@ -1,4 +1,4 @@
-## Faq guide for Kaoi
+## Faq guide for Pablo 2.0
 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCG1Ejs__vHbFp6Gah9NMUnSyMu6d---oGcw&usqp=CAU" alt="troubleshooting banner" border="0">
 <div align="center"> <br>
@@ -6,11 +6,11 @@ Nothing is perfect in the world or is made perfect, and so is our little project
 
 <div align="left"><br>
 
-## 1) Types of error one can get on Kaoi
+## 1) Types of error one can get on Pablo 2.0
 
 -   There's not so many errors our repo can give you but a few of them are there
     and mostly they're the common reason why your bot is malfunctioning.
--   Errors depends on the method you're hosting Kaoi, one is Self-hosting on
+-   Errors depends on the method you're hosting Pablo 2.0, one is Self-hosting on
     your pc💻 and other is on heroku deploy🌐
 -   Lets look at both in details shall we?
 
