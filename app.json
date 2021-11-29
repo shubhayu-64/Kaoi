@@ -1,5 +1,5 @@
 {
-    "name": "Kaoi",
+    "name": "Pablo 2.0",
     "description": "Maintained Fork of Void",
     "keywords": [
         "bot",
@@ -11,9 +11,9 @@
         "whatsapp-sticker-bot",
         "whatsapp-botto"
     ],
-    "website": "https://github.com/PrajjwalDatir/Kaoi#readme",
-    "repository": "https://github.com/PrajjwalDatir/Kaoi.git",
-    "logo": "https://avatars.githubusercontent.com/u/46681482?v=4",
+    "website": "https://github.com/shubhayu-64/Kaoi#readme",
+    "repository": "https://github.com/shubhayu-64/Kaoi.git",
+    "logo": "https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWluaW9uc3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60",
     "success_url": "/",
     "env": {
         "PREFIX": {
