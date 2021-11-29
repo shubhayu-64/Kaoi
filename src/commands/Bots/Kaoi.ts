@@ -6,17 +6,17 @@ import { ISimplifiedMessage } from '../../typings'
 export default class Command extends BaseCommand {
     constructor(client: WAClient, handler: MessageHandler) {
         super(client, handler, {
-            command: 'kaoi',
+            command: 'pablo',
             description: 'Displays the info',
             category: 'bots',
-            usage: `${client.config.prefix}kaoi`,
+            usage: `${client.config.prefix}pablo`,
             baseXp: 200
         })
     }
 
     run = async (M: ISimplifiedMessage): Promise<void> => {
         return void M.reply(
-            `👾 *kaoi* 👾\n\n🍀 *Description:* Maintained Fork of WhatsApp Botto Void\n\n🌐 *URL:* https://github.com/PrajjwalDatir/Kaoi \n`
+            `👾 *pablo* 👾\n\n🍀 *Description:* Maintained by Shubhayu Majumdar\n\n🌐 *URL:* https://github.com/shubhayu-64/Pablo-2.0 \n`
         ).catch((reason: Error) => M.reply(`an error occurred, Reason: ${reason}`))
     }
 }
